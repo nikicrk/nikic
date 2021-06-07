@@ -13,3 +13,6 @@ $ git clone   https://github.com/nikicrk/Nikicrk.
 $ cd Nikicrk.
 
 $ python2 Nikicrk.py
+ 
+
+@/
