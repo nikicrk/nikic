@@ -8,11 +8,11 @@ $ pip2 install requests
 
 $ pip2 install mechanize 
 
-$ git clone   https://github.com/nikicrk/Nikicrk.
+$ git clone   https://github.com/nikicrk/nikic
 
-$ cd Nikicrk.
+$ cd nikic
 
-$ python2 Nikicrk.py
+$ python2 nikic.py
  
 
 @/
